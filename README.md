@@ -24,6 +24,10 @@ void Sort(): сортировка списка
   
   
   
+  
+  
+  
+  
 using System;
 using System.Collections.Generic;
  
